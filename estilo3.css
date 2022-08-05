@@ -1,0 +1,42 @@
+.contenedor {
+    width: 95%;
+    height: 220px;
+    margin: 10px;
+    border: 0.5rem outset black;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.rojo {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    font-size: 30px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verde {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    font-size: 30px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.azul {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    font-size: 30px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
